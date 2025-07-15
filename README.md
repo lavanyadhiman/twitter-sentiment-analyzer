@@ -55,7 +55,7 @@ To run this application on your local machine, follow these steps:
 **1. Clone the Repository**
 
 ```bash
-git clone [https://github.com/lavanyadhiman/twitter-sentiment-analyzer.git](https://github.com/lavanyadhiman/twitter-sentiment-analyzer.git)
+git clone https://github.com/lavanyadhiman/twitter-sentiment-analyzer.git
 cd twitter-sentiment-analyzer
 ```
 
